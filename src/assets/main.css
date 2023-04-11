@@ -1,0 +1,13 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing:border-box;
+}
+body{
+  background: #0f0f0f;
+  color:#f1f1f1;
+}
+.container{
+    max-width: 1640px;
+    margin: 0 auto;
+}
